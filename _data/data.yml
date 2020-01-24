@@ -32,6 +32,9 @@ sidebar:
       - idiom: French
         level: Professional
         
+      - idiom: Slovenian
+        level: Beginner 
+        
     interests:
       - item: Gaming
         link:
@@ -46,6 +49,9 @@ career-profile:
     title: Career Profile
     summary: |
       None yet.
+      
+      
+      
 education:
     - degree: Gimnazijalac 
       university: Gimnazija "Isidora Sekulic", Novi Sad 
@@ -58,20 +64,39 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+          
+          
+          
+          
+          
+          
 experiences:
     - role:
       time: 
       details: |
         None yet.
+        
+        
+        
+        
 projects:
     title: Projects
     intro: >
       None yet.
+      
+      
+      
+      
 
 publications:
     title: Publications
     intro: |
       None yet.
+      
+      
+      
+      
+      
 
 skills:
     title: Skills &amp; Proficiency
