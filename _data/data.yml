@@ -86,17 +86,26 @@ projects:
     intro: >
       Currently:
       
-      Git Hub- Learning and Practicing
+    assignments:   
+      - title: Git Hub
+        link: "#hook"
+        tagline: "Learning and practicing."
+
+      - title: HTML
+        link: "#"
+        tagline: "Learning and practicing." 
+        
+      - title: CSS
+        link: "#"
+        tagline: "Learning and practicing." 
+        
+      - title: Slovenian 
+        link: "#"
+        tagline: "Learning and practicing."  
       
-      HTML- Learning and Practicing
-      
-      CSS- Learning and Practicing
-      
-      Slovenian- Learning and Practicing
       
       
-      
-    
+       
 publications:
     title: Publications
     intro: |
@@ -105,8 +114,6 @@ publications:
       
       
       
-      
-
 skills:
     title: Skills &amp; Proficiency
 
