@@ -87,7 +87,7 @@ projects:
       Currently:
       
     assignments:   
-      - title: Git Hub
+      - title: GitHub
         link: "#hook"
         tagline: "Learning and practicing."
 
@@ -95,7 +95,7 @@ projects:
         link: "#"
         tagline: "Learning and practicing." 
         
-      - title: CSS
+      - title: Python & Django
         link: "#"
         tagline: "Learning and practicing." 
         
